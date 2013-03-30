@@ -1,0 +1,9 @@
+.mainContainer
+{
+	-moz-border-radius: 10px 10px 10px 10px;
+	border-radius: 10px 10px 10px 10px;
+  	border: 1px solid #ff0000;
+	-moz-box-shadow:inset 0 0 30px #000000;
+  	-webkit-box-shadow:inset 0 0 30px #000000;
+    box-shadow:inset 0 0 30px #000000;
+}
