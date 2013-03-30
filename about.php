@@ -16,8 +16,8 @@
 			<img src='maple.png' id='bannerImage' />
 		</div>
 		<div class='menuContainer'>
-			<a href='index.php'><div class='menuLink-Left-Selected'>Home</div></a>
-			<a href='about.php'><div class='menuLink-Middle'>About</div></a>
+			<a href='index.php'><div class='menuLink-Left'>Home</div></a>
+			<a href='about.php'><div class='menuLink-Middle-Selected'>About</div></a>
 			<a href='purchase.php'><div class='menuLink-Middle'>Purchase</div></a>
 			<a href='contact.php'><div class='menuLink-Right'>Contact</div></a>
 			<div style="clear: both;"></div>
