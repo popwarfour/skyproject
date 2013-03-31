@@ -35,54 +35,9 @@
 			<div style="clear: both;"></div>
 		</div>
 		<div class='contentPane'>
-			<div  id='slide' style='float:left;'>
-				<img class='contentImages' src='images/sugaring.jpg'/>
-				<img class='contentImages' src='images/lincoln.jpg' />
-				<img class='contentImages' src='images/vermont.jpg' />
-				<img class='contentImages' src='images/forest.jpg' />
-				<img class='contentImages' src='images/sugaringInFullEffect.jpg'/>
-			</div>
-			<div style='float: left;' class='contentPaneRight'>
-				<h2 style='padding: 0px; margin: 0px;'>Maple Syrup - Order Online!</h2>
-				<table border='0px' style='padding: 0px; margin: 0px;'>
-					<tr>
-						<td class='contentPaneRight-SyrupSize'>
-							<img style='margin-top: 50px;' src='images/sizes/syrup.png' width='19px' alt='half pint'/>
-							</br>
-							&#189; Pint
-						</td>
-						<td class='contentPaneRight-SyrupSize'>
-							<img style='margin-top: 40px;' src='images/sizes/syrup.png' width='29px' alt='half pint'/>
-							</br>
-							Pint
-						</td>
-						<td class='contentPaneRight-SyrupSize'>
-							<img style='margin-top: 30px;' src='images/sizes/syrup.png' width='39px' alt='half pint'/>
-							</br>
-							16oz
-						</td>
-						<td class='contentPaneRight-SyrupSize'>
-							<img style='margin-top: 10px;' src='images/sizes/syrup.png' width='49px' alt='half pint'/>
-							</br>
-							&#189; Gallon
-						</td>
-						<td class='contentPaneRight-SyrupSize'>
-							<img src='images/sizes/syrup.png' alt='half pint'/>
-							</br>
-							Gallon
-						</td>
-					</tr>
-				</table>
-				<h2 style='padding: 0px;  margin: 0px;'>Education</h3>
-				<p style='padding: 0px;  margin: 0px;'>
-					<a href='http://vermontmaple.org/'>Vermont Maple Sugar Association</a></br>
-					<a href='http://www.huffingtonpost.com/2011/12/23/maple-syrup-grades_n_1167767.html#s570988&title=Grade_A_Dark'>Syrup Grading System</a>
-				</p>
-			</div>
+			
 		</div>
-		<div class='smallBanner'>
-			<p class='smallBannerTitle'>Latest From the Sugarbush</p>
-		</div>
+		
 		<div class='footer'>
 			Footer
 		</div>

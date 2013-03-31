@@ -47,29 +47,50 @@
 				<table border='0px' style='padding: 0px; margin: 0px;'>
 					<tr>
 						<td class='contentPaneRight-SyrupSize'>
-							<img style='margin-top: 50px;' src='images/sizes/syrup.png' width='19px' alt='half pint'/>
-							</br>
-							&#189; Pint
+							<a href='purchase.php' style='text-decoration: none; color: black;'>
+								<div>
+									<img style='margin-top: 40px;' src='images/sizes/syrup.png' width='19px' alt='half pint'/>
+									</br>
+									&#189; Pint
+								</div>
+							</a>
+						</td>
+
+						<td class='contentPaneRight-SyrupSize'>
+							<a href='purchase.php' style='text-decoration: none; color: black;'>
+								<div>
+									<img style='margin-top: 30px;' src='images/sizes/syrup.png' width='29px' alt='half pint'/>
+									</br>
+									Pint
+								</div>
+							</a>
 						</td>
 						<td class='contentPaneRight-SyrupSize'>
-							<img style='margin-top: 40px;' src='images/sizes/syrup.png' width='29px' alt='half pint'/>
-							</br>
-							Pint
+							<a href='purchase.php' style='text-decoration: none; color: black;'>
+								<div>
+									<img style='margin-top: 20px;' src='images/sizes/syrup.png' width='39px' alt='half pint'/>
+									</br>
+									16oz
+								</div>
+							</a>
 						</td>
 						<td class='contentPaneRight-SyrupSize'>
-							<img style='margin-top: 30px;' src='images/sizes/syrup.png' width='39px' alt='half pint'/>
-							</br>
-							16oz
+							<a href='purchase.php' style='text-decoration: none; color: black;'>
+								<div>
+									<img style='margin-top: 10px;' src='images/sizes/syrup.png' width='49px' alt='half pint'/>
+									</br>
+									&#189; Gallon
+								</div>
+							</a>
 						</td>
 						<td class='contentPaneRight-SyrupSize'>
-							<img style='margin-top: 10px;' src='images/sizes/syrup.png' width='49px' alt='half pint'/>
-							</br>
-							&#189; Gallon
-						</td>
-						<td class='contentPaneRight-SyrupSize'>
-							<img src='images/sizes/syrup.png' alt='half pint'/>
-							</br>
-							Gallon
+							<a href='purchase.php' style='text-decoration: none; color: black;'>
+								<div>
+									<img src='images/sizes/syrup.png' width='59px' alt='half pint'/>
+									</br>
+									Gallon
+								</div>
+							</a>
 						</td>
 					</tr>
 				</table>
