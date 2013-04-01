@@ -5,6 +5,7 @@ body
 	height: 10px;
 	background-repeat:repeat;
 	background-size: 500px 500px;
+	margin-bottom: 10px;
 }
 
 .mainContainer
