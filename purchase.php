@@ -7,6 +7,7 @@
 	<META NAME="Title" CONTENT="Twin Maple Sugarworks Vermont - Home">
 	<meta name="keywords" content="" />
 	<link rel="stylesheet" href="mystyle.css" type="text/css" media="screen" />	
+	<link rel="shortcut icon" href="images/logo.ico">
 	<link rel="stylesheet" href="button.css" type="text/css" media="screen" />
 	<link rel='stylesheet' href='development-bundle/themes/base/jquery.ui.all.css'>
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" ></script>

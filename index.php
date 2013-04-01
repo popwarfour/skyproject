@@ -6,6 +6,7 @@
 	<meta name="description" content="Vermonts fines maples syrup" />
 	<META NAME="Title" CONTENT="Twin Maple Sugarworks Vermont - Home">
 	<meta name="keywords" content="" />
+	<link rel="shortcut icon" href="images/logo.ico">
 	<link rel="stylesheet" href="mystyle.css" type="text/css" media="screen" />	
 	<link rel="stylesheet" href="button.css" type="text/css" media="screen" />
 	<link rel='stylesheet' href='development-bundle/themes/base/jquery.ui.all.css'>
@@ -96,16 +97,20 @@
 				</table>
 				<h2 style='padding: 0px;  margin: 0px;'>Education</h3>
 				<p style='padding: 0px;  margin: 0px;'>
-					<a href='http://vermontmaple.org/'>Vermont Maple Sugar Association</a></br>
-					<a href='http://www.huffingtonpost.com/2011/12/23/maple-syrup-grades_n_1167767.html#s570988&title=Grade_A_Dark'>Syrup Grading System</a>
+					<ul style='margin: 0px; margin-left: 20px; padding: 0px; list-style-image:url("images/logo.ico");'>
+						<li><a href='http://vermontmaple.org/'>Vermont Maple Sugar Association</a></li>
+						<li><a href='http://www.huffingtonpost.com/2011/12/23/maple-syrup-grades_n_1167767.html#s570988&title=Grade_A_Dark'>Syrup Grading System</a></li>
+						<li><a href='http://en.wikipedia.org/wiki/Lincoln,_Vermont'>Lincoln Vermont</a></li>
+					</ul>
 				</p>
 			</div>
 		</div>
 		<div class='smallBanner'>
 			<p class='smallBannerTitle'>Latest From the Sugarbush</p>
+			"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 		</div>
 		<div class='footer'>
-			Footer
+			Twin Maple Sugarworks &#169; 2013 - Created By ADM Designs
 		</div>
 	</div>
 </body>

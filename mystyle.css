@@ -353,7 +353,7 @@
 .smallBanner
 {
 	padding: 20px;
-	padding-top: 5px;
+	padding-top: 10px;
 	background-color: white;
 	margin-left: -20px;
 	margin-top: 25px;
@@ -375,6 +375,8 @@
 
 .smallBannerTitle
 {
+	margin: 0px;
+	padding: 0px;
 	font-size: 20px;
 }
 
@@ -466,7 +468,9 @@
 
 .footer
 {
+	text-align: center;
+	color: #FBA89B;
 	margin-top: 20px;
-	min-height: 50px;
+	min-height: 40px;
 	padding-left: 20px;
 }
