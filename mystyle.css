@@ -22,6 +22,7 @@
 
 #bannerText
 {
+	color: white;
 	margin: 0px;
 	margin-left: 350px;
 	font-size: 40px;
@@ -32,6 +33,7 @@
 
 #bannerSubtext
 {
+	color: white;
 	margin: 0px;
 	margin-left: 350px;
 	font-size: 20px;
