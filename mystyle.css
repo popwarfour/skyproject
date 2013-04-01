@@ -361,7 +361,6 @@
 	margin-top: 25px;
 	-moz-border-radius: 25px 25px 25px 25px;
 	border-radius: 25px 25px 25px 25px;
-	height: 100px;
 	width: 800px;
 	-moz-box-shadow: 0px 0px 20px 10px #000000;
   	-webkit-box-shadow: 0px 0px 20px 10px #000000;
@@ -377,6 +376,7 @@
 
 .smallBannerTitle
 {
+	float: left;
 	margin: 0px;
 	padding: 0px;
 	font-size: 20px;
@@ -441,6 +441,7 @@
 
 .contentPaneRight-SyrupSize
 {
+	-moz-border-radius: 5px 5px 5px 5px;
 	border-radius: 5px 5px 5px 5px;
 	width: 69px;
 	height: 90px;
@@ -466,6 +467,48 @@
 	background-image: -ms-linear-gradient(top, #FBD9B6, #FBA89B);
 	background-image: -o-linear-gradient(top, #FBD9B6, #FBA89B);
 	background-image: linear-gradient(top, #FBD9B6, #FBA89B);
+}
+
+.readMore
+{
+	margin-top: 0px;
+	padding-top: 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	border-radius: 5px 5px 5px 5px;
+	width: 150px;
+	height: 25px;
+	text-align: center;
+	-moz-box-shadow:inset 0px 0px 5px 2px #000000;
+  	-webkit-box-shadow:inset 0px 0px 5px 2px #000000;
+    box-shadow:inset 0px 0px 5px 2px #000000;
+
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#FBD9B6) to(#FBA89B));
+	background-image: -webkit-linear-gradient(top, #FBD9B6, #FBA89B);
+	background-image: -moz-linear-gradient(top,#FBD9B6, #FBA89B);
+	background-image: -ms-linear-gradient(top, #FBD9B6, #FBA89B);
+	background-image: -o-linear-gradient(top, #FBD9B6, #FBA89B);
+	background-image: linear-gradient(top, #FBD9B6, #FBA89B);
+}
+
+.readMore:hover
+{
+	margin-top: 0px;
+	padding-top: 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	border-radius: 5px 5px 5px 5px;
+	width: 150px;
+	height: 25px;
+	text-align: center;
+	-moz-box-shadow:inset 0px 0px 5px 2px #000000;
+  	-webkit-box-shadow:inset 0px 0px 5px 2px #000000;
+    box-shadow:inset 0px 0px 5px 2px #000000;
+
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#FF8D40) to(#FF6700));
+	background-image: -webkit-linear-gradient(top, #FF8D40, #FF6700);
+	background-image: -moz-linear-gradient(top,#FF8D40, #FF6700);
+	background-image: -ms-linear-gradient(top, #FF8D40, #FF6700);
+	background-image: -o-linear-gradient(top, #FF8D40, #FF6700);
+	background-image: linear-gradient(top, #FF8D40, #FF6700);
 }
 
 .footer

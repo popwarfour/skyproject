@@ -97,7 +97,7 @@
 				</table>
 				<h2 style='padding: 0px;  margin: 0px;'>Education</h3>
 				<p style='padding: 0px;  margin: 0px;'>
-					<ul style='margin: 0px; margin-left: 20px; padding: 0px; list-style-image:url("images/logo.ico");'>
+					<ul style='margin: 0px; margin-left: 25px; padding: 0px; list-style-image:url("images/logo.ico");'>
 						<li><a href='http://vermontmaple.org/'>Vermont Maple Sugar Association</a></li>
 						<li><a href='http://www.huffingtonpost.com/2011/12/23/maple-syrup-grades_n_1167767.html#s570988&title=Grade_A_Dark'>Syrup Grading System</a></li>
 						<li><a href='http://en.wikipedia.org/wiki/Lincoln,_Vermont'>Lincoln Vermont</a></li>
@@ -107,6 +107,11 @@
 		</div>
 		<div class='smallBanner'>
 			<p class='smallBannerTitle'>Latest From the Sugarbush</p>
+			<a href='about.php' style='text-decoration: none; color: black; float: right;'>
+				<div class='readMore'>Read More Posts</div>
+			</a>
+			<div style='clear: both;'></div>
+			<hr>
 			"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 		</div>
 		<div class='footer'>
