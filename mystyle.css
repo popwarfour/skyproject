@@ -206,12 +206,12 @@ body
 	border-right: 1px solid #F34428;
 	padding-top: 3px;
 
-    background-image: -webkit-gradient(linear, left top, left bottom, from(#FFAA00) to(#A65500));
-	background-image: -webkit-linear-gradient(top, #FFAA00, #A65500);
-	background-image: -moz-linear-gradient(top,#FFAA00, #A65500);
-	background-image: -ms-linear-gradient(top, #FFAA00, #A65500);
-	background-image: -o-linear-gradient(top, #FFAA00, #A65500);
-	background-image: linear-gradient(top, #FFAA00, #A65500);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#FF8D40) to(#FF6700));
+	background-image: -webkit-linear-gradient(top, #FF8D40, #FF6700);
+	background-image: -moz-linear-gradient(top,#FF8D40, #FF6700);
+	background-image: -ms-linear-gradient(top, #FF8D40, #FF6700);
+	background-image: -o-linear-gradient(top, #FF8D40, #FF6700);
+	background-image: linear-gradient(top, #FF8D40, #FF6700);
 }
 
 .menuLink-Middle:hover
@@ -230,12 +230,12 @@ body
 	border-right: 1px solid #F34428;
 	padding-top: 3px;
 
-	 background-image: -webkit-gradient(linear, left top, left bottom, from(#FFAA00) to(#A65500));
-	background-image: -webkit-linear-gradient(top, #FFAA00, #A65500);
-	background-image: -moz-linear-gradient(top,#FFAA00, #A65500);
-	background-image: -ms-linear-gradient(top, #FFAA00, #A65500);
-	background-image: -o-linear-gradient(top, #FFAA00, #A65500);
-	background-image: linear-gradient(top, #FFAA00, #A65500);
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#FF8D40) to(#FF6700));
+	background-image: -webkit-linear-gradient(top, #FF8D40, #FF6700);
+	background-image: -moz-linear-gradient(top,#FF8D40, #FF6700);
+	background-image: -ms-linear-gradient(top, #FF8D40, #FF6700);
+	background-image: -o-linear-gradient(top, #FF8D40, #FF6700);
+	background-image: linear-gradient(top, #FF8D40, #FF6700);
 }
 
 .menuLink-Right:hover
@@ -255,87 +255,12 @@ body
 	text-align: center;
 	padding-top: 3px;
 
-	 background-image: -webkit-gradient(linear, left top, left bottom, from(#FFAA00) to(#A65500));
-	background-image: -webkit-linear-gradient(top, #FFAA00, #A65500);
-	background-image: -moz-linear-gradient(top,#FFAA00, #A65500);
-	background-image: -ms-linear-gradient(top, #FFAA00, #A65500);
-	background-image: -o-linear-gradient(top, #FFAA00, #A65500);
-	background-image: linear-gradient(top, #FFAA00, #A65500);
-}
-
-.menuLink-Left-Selected:hover
-{
-	float: left;
-	-moz-border-radius: 25px 0px 0px 25px;
-	border-radius: 25px 0px 0px 25px;
-	-moz-box-shadow:inset 0px 0px 10px 5px #000000;
-  	-webkit-box-shadow:inset 0px 0px 10px 5px #000000;
-    box-shadow:inset 0px 0px 10px 5px #000000;
-	color: #5F0D00;
-	width: 209px;
-	height: 47px;
-	font-size: 30px;
-	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	font-weight: bold;
-	text-align: center;
-	border-right: 1px solid #F34428;
-	padding-top: 3px;
-
-    background-image: -webkit-gradient(linear, left top, left bottom, from(#FFAA00) to(#A65500));
-	background-image: -webkit-linear-gradient(top, #FFAA00, #A65500);
-	background-image: -moz-linear-gradient(top,#FFAA00, #A65500);
-	background-image: -ms-linear-gradient(top, #FFAA00, #A65500);
-	background-image: -o-linear-gradient(top, #FFAA00, #A65500);
-	background-image: linear-gradient(top, #FFAA00, #A65500);
-}
-
-.menuLink-Middle-Selected:hover
-{
-	float: left;
-	-moz-box-shadow:inset 0px 0px 10px 5px #000000;
-  	-webkit-box-shadow:inset 0px 0px 10px 5px #000000;
-    box-shadow:inset 0px 0px 10px 5px #000000;
-	color: #5F0D00;
-	width: 209px;
-	height: 47px;
-	font-size: 30px;
-	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	font-weight: bold;
-	text-align: center;
-	border-right: 1px solid #F34428;
-	padding-top: 3px;
-
-	background-image: -webkit-gradient(linear, left top, left bottom, from(#FFAA00) to(#A65500));
-	background-image: -webkit-linear-gradient(top, #FFAA00, #A65500);
-	background-image: -moz-linear-gradient(top,#FFAA00, #A65500);
-	background-image: -ms-linear-gradient(top, #FFAA00, #A65500);
-	background-image: -o-linear-gradient(top, #FFAA00, #A65500);
-	background-image: linear-gradient(top, #FFAA00, #A65500);
-}
-
-.menuLink-Right-Selected:hover
-{
-	float: left;
-	-moz-border-radius: 0px 25px 25px 0px;
-	border-radius: 0px 25px 25px 0px;
-	-moz-box-shadow:inset 0px 0px 10px 5px #000000;
-  	-webkit-box-shadow:inset 0px 0px 10px 5px #000000;
-    box-shadow:inset 0px 0px 10px 5px #000000;
-	color: #5F0D00;
-	width: 209px;
-	height: 47px;
-	font-size: 30px;
-	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	font-weight: bold;
-	text-align: center;
-	padding-top: 3px;
-
-	background-image: -webkit-gradient(linear, left top, left bottom, from(#FFAA00) to(#A65500));
-	background-image: -webkit-linear-gradient(top, #FFAA00, #A65500);
-	background-image: -moz-linear-gradient(top,#FFAA00, #A65500);
-	background-image: -ms-linear-gradient(top, #FFAA00, #A65500);
-	background-image: -o-linear-gradient(top, #FFAA00, #A65500);
-	background-image: linear-gradient(top, #FFAA00, #A65500);
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#FF8D40) to(#FF6700));
+	background-image: -webkit-linear-gradient(top, #FF8D40, #FF6700);
+	background-image: -moz-linear-gradient(top,#FF8D40, #FF6700);
+	background-image: -ms-linear-gradient(top, #FF8D40, #FF6700);
+	background-image: -o-linear-gradient(top, #FF8D40, #FF6700);
+	background-image: linear-gradient(top, #FF8D40, #FF6700);
 }
 
 .menuContainer
