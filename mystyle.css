@@ -1,6 +1,10 @@
 body
 {
 	background-image: url("images/background.png");
+	width: 10px;
+	height: 10px;
+	background-repeat:repeat;
+	background-size: 500px 500px;
 }
 
 .mainContainer
